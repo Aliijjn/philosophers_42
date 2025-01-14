@@ -17,11 +17,14 @@ The programme should be run as: `./philo philo_count time_to_die time_to_eat tim
 Here the programme is being run with 4 philosophers, that need to eat every 410ms.
 It takes them 200ms to eat and sleep and once they've all eaten 8 times, the simulation stops
 
-The start of the output of the programme:
+### The start of the output of the programme:
+
 ![image](https://github.com/user-attachments/assets/e853b2dc-b11c-453f-abe7-91534aca104a)
 
-The output in a [visualiser](https://nafuka11.github.io/philosophers-visualizer/):
+### The output in a [visualiser](https://nafuka11.github.io/philosophers-visualizer/):
+
 ![image](https://github.com/user-attachments/assets/452fd616-bbca-45a8-91bb-ea50e8a93c4d)
 
-200 philosophers also run fine:
+### 200 philosophers also run fine:
+
 ![image](https://github.com/user-attachments/assets/c55f3601-bc09-4a9e-bde5-58d510c88ae6)
